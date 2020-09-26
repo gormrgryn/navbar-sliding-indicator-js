@@ -1,0 +1,50 @@
+:root {
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit
+}
+body {
+    font-family: Raleway;
+    font-weight: bold;
+    margin: 0;
+    background-color: #05668d;
+    padding: 1.5em;
+    display: flex;
+    align-items: center;
+    height: 40em;
+}
+nav {
+    display: block;
+    width: 100%;
+}
+#ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: inherit;
+}
+.li {
+    font-size: 1.1em;
+    width: 5.5em;
+    text-align: center;
+    color: #03bba8;
+    font-weight: bold;
+    text-shadow: 0px 0px 2px #05668d;
+    float: left;
+    transition: .3s ease-in-out
+}
+.li:hover {
+    text-shadow: 0px 0px 1px #f0f3bd;
+}
+.shadow {
+    height: 2px;
+    background: #f0f3bd;
+    box-shadow: 0px 1px 8px 0.0625em #2cd3af;
+    border-radius: .25em;
+    transition: .3s ease-in-out;
+    position: relative;
+    top: 1.3em
+}
