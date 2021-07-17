@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">project_title</h3>
+  <h3 align="center">navbar-sliding-indicator-js</h3>
   <p align="center">
     Navigation Bar with Sliding indicator
     <br />
