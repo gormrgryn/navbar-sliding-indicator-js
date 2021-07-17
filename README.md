@@ -60,7 +60,7 @@ Navigation bar with on-hover-sliding and on-click-pinning indicator
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/gormrgryn/sliderjs.git
    ```
 2. Add li element to ul element.
 
