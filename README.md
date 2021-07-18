@@ -64,6 +64,6 @@ Navigation bar with on-hover-sliding and on-click-pinning indicator
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@_gormargaryan](https://twitter.com/_gormargaryan) - margaryan.gor.55@gmail.com
+Twitter - [@_gormargaryan](https://twitter.com/_gormargaryan) - margaryan.gor.55@gmail.com
 
 Project Link: [https://github.com/gormrgryn/navbar-sliding-indicator-js](https://github.com/gormrgryn/navbar-sliding-indicator-js)
